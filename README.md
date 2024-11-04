@@ -46,16 +46,10 @@ Proyecto para la asignatura de Aplicaciones Basadas en Tecnologías Web de la Un
 ## Instalación
 
 1. Clonar el repositorio.
-```bash
-git clone https://github.com/mrgold92/php-docker-carlemany
-cd php-docker-carlemany
-```
-
 2. Iniciar los contenedores.
 ```bash
 docker compose up -d
 ```
-
 3. Acceder a la aplicación.
 - Aplicación Web: http://localhost:8080
 - phpMyAdmin: http://localhost:8081
